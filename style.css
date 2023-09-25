@@ -1,7 +1,6 @@
-
 /*Edição do body e da imagem de fundo*/
 body {
-    background-image: url(background.png);
+    background-image: url('https://images2.imgbox.com/c8/85/ZijvlKfQ_o.png');
     background-size: contain;
     background-repeat: repeat;
     background-attachment: fixed;
@@ -10,12 +9,6 @@ body {
     padding: 0;
     text-align: center;
     }
-
-@media (max-widht: 600px){
-    body{
-        font-size:14px;
-    }
-}
 
 /*Back do cabeçalho*/
 header {
