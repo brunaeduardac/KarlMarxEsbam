@@ -11,6 +11,12 @@ body {
     text-align: center;
     }
 
+@media (max-widht: 600px){
+    body{
+        font-size:14px;
+    }
+}
+
 /*Back do cabeçalho*/
 header {
         background-color: rgb(255, 255, 255);
