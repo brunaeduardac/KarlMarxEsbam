@@ -57,18 +57,16 @@ a:hover{
     color: rgb(151, 157, 104);
     text-decoration: double;
 }
-
 /*Conteudo do texto principal*/
 .conteudo {
     padding: 25px;
     text-align: justify;
     font-size: 0.5cm;
     margin-left: 300px;
-    margin-right: 300px;
     background-color: beige;
     line-height: 0.6cm;
+    width: 60%;
     }
-
 /*Mudo a cor do H3*/    
 h3{
     color: #4a4949;
